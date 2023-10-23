@@ -6,7 +6,7 @@ Ecommece app
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/bandara1997/Ecommece.git
+$ git clone https://github.com/bandara1997/Hardware_Management_System.git
 $ cd project
 $ npm install
 ```
