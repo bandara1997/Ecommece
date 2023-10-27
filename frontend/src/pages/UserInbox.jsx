@@ -326,7 +326,7 @@ const SellerInbox = ({
                 </div>
 
                 <p className="text-[12px] text-[#000000d3] pt-1">
-                  {format(item.createdAt)}
+                  {/* {format(item.createdAt)} */}
                 </p>
               </div>
             </div>
