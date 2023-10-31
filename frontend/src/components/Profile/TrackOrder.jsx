@@ -36,7 +36,8 @@ const TrackOrder = () => {
           </h1>
         ) : data?.status === "On the way" ? (
           <h1 className="text-[20px]">
-            Our Delivery man is going to deliver your order.
+            Our Delivery man is going to deliver your order & and shoping.
+
           </h1>
         ) : data?.status === "Delivered" ? (
           <h1 className="text-[20px]">Your order is delivered!</h1>
